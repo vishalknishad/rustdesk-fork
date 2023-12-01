@@ -156,7 +156,7 @@ exclude = ["vdi/host", "examples/custom_plugin"]
 [package.metadata.winres]
 LegalCopyright = "Copyright © 2023 Purslane, Inc."
 # this FileDescription overrides package.description
-FileDescription = "RustDesk"
+FileDescription = "My App"
 
 [target.'cfg(target_os="windows")'.build-dependencies]
 winres = "0.1"
