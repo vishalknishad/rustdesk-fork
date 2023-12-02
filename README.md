@@ -68,7 +68,7 @@ Please download Sciter dynamic library yourself.
 
 - run `cargo run`
 
-## [Build](https://rustdesk.com/docs/en/dev/build/)
+## [Build](https://example.com/docs/en/dev/build/)
 
 ## How to build on Linux
 
