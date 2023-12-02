@@ -322,6 +322,7 @@ class _DesktopHomePageState extends State<DesktopHomePage>
   }
 
   Future<Widget> buildHelpCards() async {
+    return Container();
     if (updateUrl.isNotEmpty && !isCardClosed) {
       return buildInstallCard(
           "Status",
